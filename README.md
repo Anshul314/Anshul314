@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anshul JADHAV
+- 👋 Hi, I’m Anshul Jadhva
 - 👀 I’m interested in Coding and Mathematics
 - 🌱 I’m currently learning PYTHON AND C++
 
